@@ -4,10 +4,12 @@ https://anushaghimire.github.io/UFO/
 
 # Overview
 ## About
-To complete this project I used following languages:
+To complete this project I used following languages/software:
 - JavaScript
 - html
-- 
+- css
+- vs code Version: 1.57.1
+Data Source: UFO
 ## Purpose
 The purpose of the project is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criterias such as Date, cityname, country, and shape at the same time. Using JavaScript and HTML, I modified the code in my index.html file to create more table filters.
 ### Results: 
