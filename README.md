@@ -1,5 +1,5 @@
 # UFO
-## Deployed page link.
+## Link for the webpage.
 https://anushaghimire.github.io/UFO/
 
 # Overview
